@@ -16,7 +16,7 @@
 **`unidade08`|** Para não esquecer mais  
 **`unidade09`|** Recursos adicionais  
 
-**`Seção01`**| Conhecendo o CodeWhisperer  
+**`Seção03`**| Conhecendo o CodeWhisperer  
 **`unidade01`**| Introdução da seção  
 **`unidade02`**| Apresentação do problema que resolveremos  
 **`unidade03`**| Como acessar o Amazon CodeWhisperer  
@@ -24,3 +24,13 @@
 **`unidade05`**| Testando seu conhecimento  
 **`unidade06`**| Para não esquecer mais  
 **`unidade07`**| Referências e recursos adicionais  
+
+**`Seção04`**| Introdução ao Amazon Bedrock
+**`unidade01`**| Introdução da seção
+**`unidade02`**| Para que serve o Bedrock
+**`unidade03`**| Configuração de acesso ao Amazon Bedrock
+**`unidade04`**| Acessando Amazon Bedrock em seu Ambiente Local
+<!-- **`unidade05`**| Conhecendo a ferramenta
+**`unidade06`**| Testando seu conhecimento
+**`unidade07`**| Para não esquecer mais
+**`unidade08`**| Referências e recursos adicionais -->
